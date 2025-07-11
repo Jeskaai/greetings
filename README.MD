@@ -1,4 +1,4 @@
-#Saludos en go
+## Saludos en go
 
 Este paquete proporciona  una forma simple de obtener saludos de personas 
 
